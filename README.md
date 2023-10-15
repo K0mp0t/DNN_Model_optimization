@@ -15,7 +15,7 @@ Character Error Rate is used as metric (so lower = better)
 | Offline response-based   |   0.922M    |     24.54       |  1.161216  |   0.054938    |
 | distilation              |             |                 |            |               |
 +--------------------------+-------------+-----------------+------------+---------------+
-| ONNXRuntime conversion   |   1.492M    |     12.30       |  0.611737  |   0.047295    |
+| ONNX conversion          |   1.492M    |     12.30       |  0.611737  |   0.047295    |
 | + ONNXOptimizer          |             |                 |            |               |
 | + ONNXSimplifier         |             |                 |            |               |
 +--------------------------+-------------+-----------------+------------+---------------+
